@@ -8,7 +8,7 @@
 
 from machine import Pin, SPI
 import time
-from ssd1681_driver_fonts import FONT_8X8
+from b_torp_temp_display.ssd1681_driver_fonts import FONT_8X8
 
 # SSD1681 Command Constants
 CMD_SW_RESET = 0x12
