@@ -38,6 +38,10 @@ display.show()
 - `ssd1681_driver_fonts.py` - Font data
 - `example_ssd1681.py` - Demo/example code
 
+## Contributing
+
+This driver was developed as a personal learning project. While comments and suggestions are welcome, please note that this is maintained by an amateur developer and no active development or support is planned. Feel free to fork and modify for your own needs!
+
 ## License
 
 MIT License - see LICENSE file for details.
