@@ -40,7 +40,7 @@ display.show()
 
 ## Contributing
 
-This driver was developed as a personal learning project. While comments and suggestions are welcome, please note that this is maintained by an amateur developer and no active development or support is planned. Feel free to fork and modify for your own needs!
+This driver was developed as a personal learning project. While comments and suggestions are welcome, please note no active development or support is planned. Feel free to fork and modify for your own needs!
 
 ## License
 
